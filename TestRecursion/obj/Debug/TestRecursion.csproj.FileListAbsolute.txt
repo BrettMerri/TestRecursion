@@ -1,0 +1,6 @@
+C:\Users\Brett\Desktop\Projects\Misc\TestRecursion\TestRecursion\bin\Debug\TestRecursion.exe.config
+C:\Users\Brett\Desktop\Projects\Misc\TestRecursion\TestRecursion\bin\Debug\TestRecursion.exe
+C:\Users\Brett\Desktop\Projects\Misc\TestRecursion\TestRecursion\bin\Debug\TestRecursion.pdb
+C:\Users\Brett\Desktop\Projects\Misc\TestRecursion\TestRecursion\obj\Debug\TestRecursion.csprojResolveAssemblyReference.cache
+C:\Users\Brett\Desktop\Projects\Misc\TestRecursion\TestRecursion\obj\Debug\TestRecursion.exe
+C:\Users\Brett\Desktop\Projects\Misc\TestRecursion\TestRecursion\obj\Debug\TestRecursion.pdb
